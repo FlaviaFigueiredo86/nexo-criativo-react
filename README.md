@@ -2,7 +2,7 @@ NEXO — Laboratório Digital
 
 Sobre o projeto
 
-Este projeto foi criado para uma atividade da faculdade, com o objetivo de aprender a dividir uma página em componentes usando React.
+Este projeto foi criado para uma atividade, com o objetivo de aprender a dividir uma página em componentes usando React.
 
 A página apresenta três projetos fictícios em cards, com um visual moderno e organizado.
 
@@ -16,17 +16,6 @@ Footer: mostra as informações finais da página.
 
 App: organiza os componentes e monta a página.
 
-Tecnologias utilizadas
-
-React
-
-JavaScript
-
-HTML e JSX
-
-CSS
-
-Vite
 
 O que aprendi
 
