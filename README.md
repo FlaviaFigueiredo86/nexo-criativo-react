@@ -31,7 +31,7 @@ Abra a pasta do projeto no terminal.
 
 Execute npm install.
 
-Execute npm run dev.
+Execute npm run dev.            *http://localhost:5173/#projetos
 
 Abra no navegador o endereço informado pelo terminal.
 
