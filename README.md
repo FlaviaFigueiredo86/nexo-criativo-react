@@ -1,16 +1,51 @@
-# React + Vite
+NEXO — Laboratório Digital
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Sobre o projeto
 
-Currently, two official plugins are available:
+Este projeto foi criado para uma atividade da faculdade, com o objetivo de aprender a dividir uma página em componentes usando React.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+A página apresenta três projetos fictícios em cards, com um visual moderno e organizado.
 
-## React Compiler
+Componentes utilizados
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Header: mostra o nome do site e o menu de navegação.
 
-## Expanding the ESLint configuration
+Card: apresenta as informações de cada projeto. Esse componente é reutilizado três vezes.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Footer: mostra as informações finais da página.
+
+App: organiza os componentes e monta a página.
+
+Tecnologias utilizadas
+
+React
+
+JavaScript
+
+HTML e JSX
+
+CSS
+
+Vite
+
+O que aprendi
+
+Com este projeto, pratiquei como dividir uma página em partes menores, dar uma função específica para cada componente e reutilizar o mesmo componente em diferentes partes da interface.
+
+Como executar o projeto
+
+Instale o Node.js.
+
+Baixe ou clone este repositório.
+
+Abra a pasta do projeto no terminal.
+
+Execute npm install.
+
+Execute npm run dev.
+
+Abra no navegador o endereço informado pelo terminal.
+
+Repositório
+
+Projeto desenvolvido para praticar componentização, organização e reutilização de componentes com React.
